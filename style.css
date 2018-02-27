@@ -1,0 +1,112 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url(fond1.jpg);
+	width: 1335px;
+	height: 1800px;
+}
+
+.logo{
+	margin: 0px 1085px 1600px 0px;
+	width: 250px;
+	height: 200px;
+	background-color: red;
+	text-align: center;
+	line-height: 200px;
+
+}
+
+.logo a {
+	font-size: 50px;
+	font-family: Arial Black;
+	text-decoration: none;
+	color: black;
+}
+
+.espace{
+	margin: -1800px 0px 1660px 250px;
+	width: 1085px;
+	height: 160px;
+	background-color: orange;
+	text-align: center;
+	line-height: 160px
+}
+
+.espace{
+	font-size: 30px;
+	font-family: Arial Black
+}
+
+.animation {
+	margin: -1670px 0px 1620px 250px;
+}
+
+nav ul{
+	padding: 0px;
+	margin: -1622px 0px 1593px 250px;
+	list-style-type: none;
+}
+
+nav li{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 216px;
+	height: 30px;
+	border-right: 1px solid #000000;
+	text-align: center;
+	line-height: 30px;
+	background-color: yellow;
+}
+
+nav li a{
+	display: block;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: Arial Black;
+}
+
+.menu{
+	margin: -1593px 1085px 0px 0px;
+	background-color: blue;
+	width: 250px;
+	height: 1590px;
+	text-align: center;
+	line-height: 1593px;
+	font-family: Arial Black;
+	font-size: 20px;
+}
+
+.menu1{
+	margin: -1593px 216px 0px 250px;
+	/*background-color: #782564;*/
+	width: 864px;
+	height: 1450px;
+	text-align: center;
+	line-height: 1450px;
+	font-size: 20px;
+	font-family: Arial Black;
+}
+
+.menu2{
+	margin: -1460px 0px 0px 1117px;
+	background-color: #204586;
+	width: 218px;
+	height: 1500px;
+	text-align: center;
+	line-height: 1490px;
+	font-family: Arial Black;
+	font-size: 10px;
+}
+
+.menu3{
+	margin: 0px 0px 0px 250px;
+	background-color: #005600;
+	width: 1085px;
+	height: 103px;
+	text-align: center;
+	line-height: 103px;
+	font-family: Arial Black;
+	font-size: 20px;
+}
